@@ -1,2 +1,2 @@
-# Person---Address
-This program stores the addresses of people
+# ToDo list
+This program stores your plans
